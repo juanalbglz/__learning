@@ -12,8 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -30,6 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
+Configure the background of the site with the finished image of the project and start building it
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -40,10 +40,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 Center a div on the page
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
 body{
       height: 100%;
