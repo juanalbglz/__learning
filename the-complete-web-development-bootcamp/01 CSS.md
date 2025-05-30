@@ -1,0 +1,748 @@
+# CSS Standard Properties
+- [ ] -webkit-*
+	- [ ] [-webkit-line-clamp](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-line-clamp)
+	- [ ] [-webkit-text-fill-color](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-fill-color)
+	- [ ] [-webkit-text-stroke](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke)
+	- [ ] [-webkit-text-stroke-color](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke-color)
+	- [ ] [-webkit-text-stroke-width](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-stroke-width)
+
+- [ ] [accent-color](https://developer.mozilla.org/en-US/docs/Web/CSS/accent-color)
+- [ ] align-*      
+	- [ ] [align-content](https://developer.mozilla.org/en-US/docs/Web/CSS/align-content)
+	- [ ] [align-items](https://developer.mozilla.org/en-US/docs/Web/CSS/align-items)
+	- [ ] [align-self](https://developer.mozilla.org/en-US/docs/Web/CSS/align-self)
+
+- [ ] [all](https://developer.mozilla.org/en-US/docs/Web/CSS/all)
+- [ ] animation-*
+	-[animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
+	- [ ] [animation-composition](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-composition)
+	- [ ] [animation-delay](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-delay)
+	- [ ] [animation-direction](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-direction)
+	- [ ] [animation-duration](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-duration)
+	- [ ] [animation-fill-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-fill-mode)
+	- [ ] [animation-iteration-count](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-iteration-count)
+	- [ ] [animation-name](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-name)
+	- [ ] [animation-play-state](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-play-state)
+	- [ ] [animation-timing-function](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)
+
+- [ ] [appearance](https://developer.mozilla.org/en-US/docs/Web/CSS/appearance)
+- [ ] [aspect-ratio](https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio)
+- [ ] [backdrop-filter](https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter)
+- [ ] [backface-visibility](https://developer.mozilla.org/en-US/docs/Web/CSS/backface-visibility)
+- [ ] background-*
+	- [ ]  [background](https://developer.mozilla.org/en-US/docs/Web/CSS/background)
+	- [ ]  [background-attachment](https://developer.mozilla.org/en-US/docs/Web/CSS/background-attachment)
+	- [ ] [background-blend-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/background-blend-mode)
+	- [ ]  [background-clip](https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip)
+	- [ ]  [background-color](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
+	- [ ]  [background-image](https://developer.mozilla.org/en-US/docs/Web/CSS/background-image)
+	- [ ]  [background-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/background-origin)
+	- [ ]  [background-position](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position)
+	- [ ]  [background-position-x](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position-x)
+	- [ ]  [background-position-y](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position-y)
+	- [ ]  [background-repeat](https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat)
+	- [ ]  [background-size](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size)
+
+- [ ] [block-size](https://developer.mozilla.org/en-US/docs/Web/CSS/block-size)
+	- [ ] [border](https://developer.mozilla.org/en-US/docs/Web/CSS/border)
+	- [ ] [border-block](https://developer.mozilla.org/en-US/docs/Web/CSS/border-block)
+	- [ ] [border-block-color](https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-color)
+	- [ ] [border-block-end](https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-end)
+	- [ ] [border-block-end-color](https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-end-color)
+	- [ ] [border-block-end-style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-end-style)
+	- [ ] [border-block-end-width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-end-width)
+	- [ ] [border-block-start](https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-start)
+	- [ ] [border-block-start-color](https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-start-color)
+	- [ ] [border-block-start-style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-start-style)
+	- [ ] [border-block-start-width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-start-width)
+	- [ ] [border-block-style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-style)
+	- [ ] [border-block-width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-block-width)
+	- [ ] [border-bottom](https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom)
+	- [ ] [border-bottom-color](https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-color)
+	- [ ] [border-bottom-left-radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-left-radius)
+	- [ ] [border-bottom-right-radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-right-radius)
+	- [ ] [border-bottom-style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-style)
+	- [ ] [border-bottom-width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-bottom-width)
+	- [ ] [border-collapse](https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse)
+	- [ ] [border-color](https://developer.mozilla.org/en-US/docs/Web/CSS/border-color)
+	- [ ] [border-end-end-radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-end-end-radius)
+	- [ ] [border-end-start-radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-end-start-radius)
+	- [ ] [border-image](https://developer.mozilla.org/en-US/docs/Web/CSS/border-image)
+	- [ ] [border-image-outset](https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-outset)
+	- [ ] [border-image-repeat](https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-repeat)
+	- [ ] [border-image-slice](https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-slice)
+	- [ ] [border-image-source](https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-source)
+	- [ ] [border-image-width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-width)
+	- [ ] [border-inline](https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline)
+	- [ ] [border-inline-color](https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-color)
+	- [ ] [border-inline-end](https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-end)
+	- [ ] [border-inline-end-color](https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-end-color)
+	- [ ] [border-inline-end-style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-end-style)
+	- [ ] [border-inline-end-width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-end-width)
+	- [ ] [border-inline-start](https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-start)
+	- [ ] [border-inline-start-color](https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-start-color)
+	- [ ] [border-inline-start-style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-start-style)
+	- [ ] [border-inline-start-width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-start-width)
+	- [ ] [border-inline-style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-style)
+	- [ ] [border-inline-width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-inline-width)
+	- [ ] [border-left](https://developer.mozilla.org/en-US/docs/Web/CSS/border-left)
+	- [ ] [border-left-color](https://developer.mozilla.org/en-US/docs/Web/CSS/border-left-color)
+	- [ ] [border-left-style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-left-style)
+	- [ ] [border-left-width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-left-width)
+	- [ ] [border-radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius)
+	- [ ] [border-right](https://developer.mozilla.org/en-US/docs/Web/CSS/border-right)
+	- [ ] [border-right-color](https://developer.mozilla.org/en-US/docs/Web/CSS/border-right-color)
+	- [ ] [border-right-style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-right-style)
+	- [ ] [border-right-width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-right-width)
+	- [ ] [border-spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/border-spacing)
+	- [ ] [border-start-end-radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-start-end-radius)
+	- [ ] [border-start-start-radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-start-start-radius)
+	- [ ] [border-style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style)
+	- [ ] [border-top](https://developer.mozilla.org/en-US/docs/Web/CSS/border-top)
+	- [ ] [border-top-color](https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-color)
+	- [ ] [border-top-left-radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-left-radius)
+	- [ ] [border-top-right-radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-right-radius)
+	- [ ] [border-top-style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-style)
+	- [ ] [border-top-width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-width)
+	- [ ] [border-width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-width)
+    
+- [ ] [bottom](https://developer.mozilla.org/en-US/docs/Web/CSS/bottom)
+- [ ] box-*
+	- [ ] [box-align](https://developer.mozilla.org/en-US/docs/Web/CSS/box-align)Non-standardDeprecated
+	- [ ] [box-decoration-break](https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break)
+	- [ ] [box-direction](https://developer.mozilla.org/en-US/docs/Web/CSS/box-direction)Non-standardDeprecated
+	- [ ] [box-flex](https://developer.mozilla.org/en-US/docs/Web/CSS/box-flex)Non-standardDeprecated
+	- [ ] [box-flex-group](https://developer.mozilla.org/en-US/docs/Web/CSS/box-flex-group)Non-standardDeprecated
+	- [ ] [box-lines](https://developer.mozilla.org/en-US/docs/Web/CSS/box-lines)Non-standardDeprecated
+	- [ ] [box-ordinal-group](https://developer.mozilla.org/en-US/docs/Web/CSS/box-ordinal-group)Non-standardDeprecated
+	- [ ] [box-orient](https://developer.mozilla.org/en-US/docs/Web/CSS/box-orient)Non-standardDeprecated
+	- [ ] [box-pack](https://developer.mozilla.org/en-US/docs/Web/CSS/box-pack)Non-standardDeprecated
+	- [ ] [box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
+	- [ ] [box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+        
+- [ ] break-*
+	- [ ] [break-after](https://developer.mozilla.org/en-US/docs/Web/CSS/break-after)
+	- [ ] [break-before](https://developer.mozilla.org/en-US/docs/Web/CSS/break-before)
+	- [ ] [break-inside](https://developer.mozilla.org/en-US/docs/Web/CSS/break-inside)
+	- [ ] [caption-side](https://developer.mozilla.org/en-US/docs/Web/CSS/caption-side)
+	- [ ] [caret-color](https://developer.mozilla.org/en-US/docs/Web/CSS/caret-color)
+	- [ ] [clear](https://developer.mozilla.org/en-US/docs/Web/CSS/clear)
+	- [ ] [clip](https://developer.mozilla.org/en-US/docs/Web/CSS/clip)Deprecated
+	- [ ] [clip-path](https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path)
+	- [ ] [color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
+	- [ ] [color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme)
+- [ ] column-*
+	- [ ] [column-count](https://developer.mozilla.org/en-US/docs/Web/CSS/column-count)
+	- [ ] [column-fill](https://developer.mozilla.org/en-US/docs/Web/CSS/column-fill)
+	- [ ] [column-gap](https://developer.mozilla.org/en-US/docs/Web/CSS/column-gap)
+	- [ ] [column-rule](https://developer.mozilla.org/en-US/docs/Web/CSS/column-rule)
+	- [ ] [column-rule-color](https://developer.mozilla.org/en-US/docs/Web/CSS/column-rule-color)
+	- [ ] [column-rule-style](https://developer.mozilla.org/en-US/docs/Web/CSS/column-rule-style)
+	- [ ] [column-rule-width](https://developer.mozilla.org/en-US/docs/Web/CSS/column-rule-width)
+	- [ ] [column-span](https://developer.mozilla.org/en-US/docs/Web/CSS/column-span)
+	- [ ] [column-width](https://developer.mozilla.org/en-US/docs/Web/CSS/column-width)
+- [ ] [columns](https://developer.mozilla.org/en-US/docs/Web/CSS/columns)
+- [ ] contain-*
+	- [ ] [contain](https://developer.mozilla.org/en-US/docs/Web/CSS/contain)
+	- [ ] [contain-intrinsic-block-size](https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-block-size)
+	- [ ] [contain-intrinsic-height](https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-height)
+	- [ ] [contain-intrinsic-inline-size](https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-inline-size)
+	- [ ] [contain-intrinsic-size](https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-size)
+	- [ ] [contain-intrinsic-width](https://developer.mozilla.org/en-US/docs/Web/CSS/contain-intrinsic-width)       
+- [ ] container-*
+	- [ ] [container](https://developer.mozilla.org/en-US/docs/Web/CSS/container)
+	- [ ] [container-name](https://developer.mozilla.org/en-US/docs/Web/CSS/container-name)
+	- [ ] [container-type](https://developer.mozilla.org/en-US/docs/Web/CSS/container-type)
+	- [ ] [content](https://developer.mozilla.org/en-US/docs/Web/CSS/content)
+    - [ ] [content-visibility](https://developer.mozilla.org/en-US/docs/Web/CSS/content-visibility)Experimental
+-counter-*
+	- [ ]  [counter-increment](https://developer.mozilla.org/en-US/docs/Web/CSS/counter-increment)
+	- [ ]  [counter-reset](https://developer.mozilla.org/en-US/docs/Web/CSS/counter-reset)
+	- [ ]  [counter-set](https://developer.mozilla.org/en-US/docs/Web/CSS/counter-set)
+- [ ]  [cursor](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
+- [ ]  [direction](https://developer.mozilla.org/en-US/docs/Web/CSS/direction)
+- [ ]  [display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+- [ ]  [empty-cells](https://developer.mozilla.org/en-US/docs/Web/CSS/empty-cells)
+- [ ]  [filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
+- [ ]  flex-* 
+	- [ ]  [flex](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
+	- [ ]  [flex-basis](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis)
+	- [ ]  [flex-direction](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction)
+	- [ ]  [flex-flow](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-flow)
+	- [ ]  [flex-grow](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-grow)
+	- [ ]  [flex-shrink](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-shrink)
+	- [ ]  [flex-wrap](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap)
+- [ ] [float](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
+- [ ] font-*
+	- [ ]  [font](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
+	- [ ]  [font-family](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
+	- [ ]  [font-feature-settings](https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings)
+	- [ ]  [font-kerning](https://developer.mozilla.org/en-US/docs/Web/CSS/font-kerning)
+	- [ ]  [font-language-override](https://developer.mozilla.org/en-US/docs/Web/CSS/font-language-override)
+	- [ ]  [font-optical-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/font-optical-sizing)
+	- [ ]  [font-palette](https://developer.mozilla.org/en-US/docs/Web/CSS/font-palette)
+	- [ ]  [font-size](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size)
+	- [ ]  [font-size-adjust](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size-adjust)
+	- [ ]  [font-smooth](https://developer.mozilla.org/en-US/docs/Web/CSS/font-smooth)Non-standard
+	- [ ]  [font-stretch](https://developer.mozilla.org/en-US/docs/Web/CSS/font-stretch)
+	- [ ]  [font-style](https://developer.mozilla.org/en-US/docs/Web/CSS/font-style)
+	- [ ]  [font-synthesis](https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis)
+	- [ ]  [font-variant](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant)
+	- [ ]  [font-variant-alternates](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-alternates)
+	- [ ]  [font-variant-caps](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-caps)
+	- [ ]  [font-variant-east-asian](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-east-asian)
+	- [ ]  [font-variant-emoji](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-emoji)
+	- [ ]  [font-variant-ligatures](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-ligatures)
+	- [ ]  [font-variant-numeric](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-numeric)
+	- [ ]  [font-variant-position](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-position)
+	- [ ]  [font-variation-settings](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variation-settings)
+	- [ ]  [font-weight](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)  
+- [ ] [forced-color-adjust](https://developer.mozilla.org/en-US/docs/Web/CSS/forced-color-adjust)
+- [ ] [gap](https://developer.mozilla.org/en-US/docs/Web/CSS/gap)
+- [ ] grid-*  
+	- [ ]  [grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid)
+	- [ ]  [grid-area](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-area)
+	- [ ]  [grid-auto-columns](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-columns)
+	- [ ]  [grid-auto-flow](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow)
+	- [ ]  [grid-auto-rows](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-rows)
+	- [ ]  [grid-column](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column)
+	- [ ]  [grid-column-end](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column-end)
+	- [ ]  [grid-column-start](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-column-start)
+	- [ ]  [grid-row](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-row)
+	- [ ]  [grid-row-end](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-row-end)
+	- [ ]  [grid-row-start](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-row-start)
+	- [ ]  [grid-template](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template)
+	- [ ]  [grid-template-areas](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-areas)
+	- [ ]  [grid-template-columns](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns)
+	- [ ]  [grid-template-rows](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-rows)
+- [ ] [hanging-punctuation](https://developer.mozilla.org/en-US/docs/Web/CSS/hanging-punctuation)
+- [ ] [height](https://developer.mozilla.org/en-US/docs/Web/CSS/height)
+- [ ] [hyphenate-character](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphenate-character)
+- [ ] [hyphenate-limit-chars](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphenate-limit-chars)
+- [ ] [hyphens](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens)
+- [ ] image-*
+	- [ ]  [image-orientation](https://developer.mozilla.org/en-US/docs/Web/CSS/image-orientation)
+	- [ ]  [image-rendering](https://developer.mozilla.org/en-US/docs/Web/CSS/image-rendering)
+	- [ ]  [image-resolution](https://developer.mozilla.org/en-US/docs/Web/CSS/image-resolution)Experimental
+- [ ] [initial-letter](https://developer.mozilla.org/en-US/docs/Web/CSS/initial-letter)Experimental
+- [ ] [initial-letter-align](https://developer.mozilla.org/en-US/docs/Web/CSS/initial-letter-align)Experimental
+- [ ] [inline-size](https://developer.mozilla.org/en-US/docs/Web/CSS/inline-size)
+- [ ] inset-*
+	- [ ]  [inset](https://developer.mozilla.org/en-US/docs/Web/CSS/inset)
+	- [ ]  [inset-block](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-block)
+	- [ ]  [inset-block-end](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-block-end)
+	- [ ]  [inset-block-start](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-block-start)
+	- [ ]  [inset-inline](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-inline)
+	- [ ]  [inset-inline-end](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-inline-end)
+	- [ ]  [inset-inline-start](https://developer.mozilla.org/en-US/docs/Web/CSS/inset-inline-start)
+        
+- [ ] [isolation](https://developer.mozilla.org/en-US/docs/Web/CSS/isolation)
+- [ ] justify-*
+	- [ ]  [justify-content](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content)
+	- [ ]  [justify-items](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-items)
+	- [ ]  [justify-self](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-self)
+	- [ ]  [justify-tracks](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-tracks)Experimental
+	- [ ]  [left](https://developer.mozilla.org/en-US/docs/Web/CSS/left)
+	- [ ]  [letter-spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)
+
+- [ ]  line-*
+        
+	- [ ]  [line-break](https://developer.mozilla.org/en-US/docs/Web/CSS/line-break)
+	- [ ]  [line-height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
+	- [ ]  [line-height-step](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height-step)Experimental       
+
+- [ ] list-*
+	- [ ]  [list-style](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style)
+	- [ ]  [list-style-image](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-image)
+	- [ ]  [list-style-position](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-position)
+	- [ ]  [list-style-type](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type)
+
+- [ ] margin-*
+	- [ ]  [margin](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
+	- [ ]  [margin-block](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block)
+	- [ ]  [margin-block-end](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block-end)
+	- [ ]  [margin-block-start](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block-start)
+	- [ ]  [margin-bottom](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-bottom)
+	- [ ]  [margin-inline](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline)
+	- [ ]  [margin-inline-end](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline-end)
+	- [ ]  [margin-inline-start](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline-start)
+	- [ ]  [margin-left](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-left)
+	- [ ]  [margin-right](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-right)
+	- [ ]  [margin-top](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-top)
+	- [ ]  [margin-trim](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-trim)Experimental
+
+- [ ] mask-*
+	- [ ]  [mask](https://developer.mozilla.org/en-US/docs/Web/CSS/mask)
+	- [ ]  [mask-border](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border)
+	- [ ]  [mask-border-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-mode)
+	- [ ]  [mask-border-outset](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-outset)
+	- [ ]  [mask-border-repeat](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-repeat)
+	- [ ]  [mask-border-slice](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-slice)
+	- [ ]  [mask-border-source](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-source)
+	- [ ]  [mask-border-width](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-border-width)
+	- [ ]  [mask-clip](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-clip)
+	- [ ]  [mask-composite](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-composite)
+	- [ ]  [mask-image](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-image)
+	- [ ]  [mask-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-mode)
+	- [ ]  [mask-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-origin)
+	- [ ]  [mask-position](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-position)
+	- [ ]  [mask-repeat](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-repeat)
+	- [ ]  [mask-size](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-size)
+	- [ ]  [mask-type](https://developer.mozilla.org/en-US/docs/Web/CSS/mask-type)
+        
+- [ ] [masonry-auto-flow](https://developer.mozilla.org/en-US/docs/Web/CSS/masonry-auto-flow)Experimental
+- [ ]  math-*
+    - [ ] [math-depth](https://developer.mozilla.org/en-US/docs/Web/CSS/math-depth)Experimental
+    - [ ] [math-shift](https://developer.mozilla.org/en-US/docs/Web/CSS/math-shift)Experimental
+    - [ ] [math-style](https://developer.mozilla.org/en-US/docs/Web/CSS/math-style)
+        
+- [ ] max-*
+    - [ ] [max-block-size](https://developer.mozilla.org/en-US/docs/Web/CSS/max-block-size)
+    - [ ] [max-height](https://developer.mozilla.org/en-US/docs/Web/CSS/max-height)
+    - [ ] [max-inline-size](https://developer.mozilla.org/en-US/docs/Web/CSS/max-inline-size)
+    - [ ] [max-width](https://developer.mozilla.org/en-US/docs/Web/CSS/max-width)
+        
+- [ ] min-*
+    - [ ] [min-block-size](https://developer.mozilla.org/en-US/docs/Web/CSS/min-block-size)
+    - [ ] [min-height](https://developer.mozilla.org/en-US/docs/Web/CSS/min-height)
+    - [ ] [min-inline-size](https://developer.mozilla.org/en-US/docs/Web/CSS/min-inline-size)
+    - [ ] [min-width](https://developer.mozilla.org/en-US/docs/Web/CSS/min-width)
+        
+- [ ] [mix-blend-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode)
+- [ ] [object-fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
+- [ ] [object-position](https://developer.mozilla.org/en-US/docs/Web/CSS/object-position)
+- [ ] offset-*
+    - [ ] [offset](https://developer.mozilla.org/en-US/docs/Web/CSS/offset)
+    - [ ] [offset-anchor](https://developer.mozilla.org/en-US/docs/Web/CSS/offset-anchor)
+    - [ ] [offset-distance](https://developer.mozilla.org/en-US/docs/Web/CSS/offset-distance)
+    - [ ] [offset-path](https://developer.mozilla.org/en-US/docs/Web/CSS/offset-path)
+    - [ ] [offset-position](https://developer.mozilla.org/en-US/docs/Web/CSS/offset-position)Experimental
+    - [ ] [offset-rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/offset-rotate)
+        
+- [ ] [opacity](https://developer.mozilla.org/en-US/docs/Web/CSS/opacity)
+- [ ] [order](https://developer.mozilla.org/en-US/docs/Web/CSS/order)
+- [ ] [orphans](https://developer.mozilla.org/en-US/docs/Web/CSS/orphans)
+- [ ] outline-*
+    - [ ] [outline](https://developer.mozilla.org/en-US/docs/Web/CSS/outline)
+    - [ ] [outline-color](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-color)
+    - [ ] [outline-offset](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-offset)
+    - [ ] [outline-style](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-style)
+    - [ ] [outline-width](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-width)
+        
+- [ ] overflow-*
+    - [ ] [overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow)
+    - [ ] [overflow-anchor](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-anchor)
+    - [ ] [overflow-block](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-block)
+    - [ ] [overflow-clip-margin](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-clip-margin)
+    - [ ] [overflow-inline](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-inline)
+    - [ ] [overflow-wrap](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap)
+    - [ ] [overflow-x](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-x)
+    - [ ] [overflow-y](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-y)
+        
+- [ ] overscroll-*
+    - [ ] [overscroll-behavior](https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior)
+    - [ ] [overscroll-behavior-block](https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior-block)
+    - [ ] [overscroll-behavior-inline](https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior-inline)
+    - [ ] [overscroll-behavior-x](https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior-x)
+    - [ ] [overscroll-behavior-y](https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior-y)
+        
+- [ ] padding-*
+    - [ ] [padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
+    - [ ] [padding-block](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-block)
+    - [ ] [padding-block-end](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-block-end)
+    - [ ] [padding-block-start](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-block-start)
+    - [ ] [padding-bottom](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-bottom)
+    - [ ] [padding-inline](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-inline)
+    - [ ] [padding-inline-end](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-inline-end)
+    - [ ] [padding-inline-start](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-inline-start)
+    - [ ] [padding-left](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-left)
+    - [ ] [padding-right](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-right)
+    - [ ] [padding-top](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-top)
+        
+- [ ] page-*
+    - [ ] [page](https://developer.mozilla.org/en-US/docs/Web/CSS/page)
+    - [ ] [page-break-after](https://developer.mozilla.org/en-US/docs/Web/CSS/page-break-after)
+    - [ ] [page-break-before](https://developer.mozilla.org/en-US/docs/Web/CSS/page-break-before)
+    - [ ] [page-break-inside](https://developer.mozilla.org/en-US/docs/Web/CSS/page-break-inside)
+        
+- [ ] [paint-order](https://developer.mozilla.org/en-US/docs/Web/CSS/paint-order)
+- [ ] [perspective](https://developer.mozilla.org/en-US/docs/Web/CSS/perspective)
+- [ ] [perspective-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/perspective-origin)
+- [ ] place-*
+    - [ ] [place-content](https://developer.mozilla.org/en-US/docs/Web/CSS/place-content)
+    - [ ] [place-items](https://developer.mozilla.org/en-US/docs/Web/CSS/place-items)
+    - [ ] [place-self](https://developer.mozilla.org/en-US/docs/Web/CSS/place-self)
+        
+- [ ] [pointer-events](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events)
+- [ ] [position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+- [ ] [print-color-adjust](https://developer.mozilla.org/en-US/docs/Web/CSS/print-color-adjust)
+- [ ] [quotes](https://developer.mozilla.org/en-US/docs/Web/CSS/quotes)
+- [ ] [resize](https://developer.mozilla.org/en-US/docs/Web/CSS/resize)
+- [ ] [right](https://developer.mozilla.org/en-US/docs/Web/CSS/right)
+- [ ] [rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/rotate)
+- [ ] [row-gap](https://developer.mozilla.org/en-US/docs/Web/CSS/row-gap)
+- [ ] [ruby-align](https://developer.mozilla.org/en-US/docs/Web/CSS/ruby-align)Experimental
+- [ ] [ruby-position](https://developer.mozilla.org/en-US/docs/Web/CSS/ruby-position)
+- [ ] [scale](https://developer.mozilla.org/en-US/docs/Web/CSS/scale)
+- [ ] scroll-*
+    - [ ] [scroll-behavior](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior)
+    - [ ] [scroll-margin](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin)
+    - [ ] [scroll-margin-block](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-block)
+    - [ ] [scroll-margin-block-end](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-block-end)
+    - [ ] [scroll-margin-block-start](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-block-start)
+    - [ ] [scroll-margin-bottom](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-bottom)
+    - [ ] [scroll-margin-inline](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-inline)
+    - [ ] [scroll-margin-inline-end](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-inline-end)
+    - [ ] [scroll-margin-inline-start](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-inline-start)
+    - [ ] [scroll-margin-left](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-left)
+    - [ ] [scroll-margin-right](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-right)
+    - [ ] [scroll-margin-top](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-top)
+    - [ ] [scroll-padding](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding)
+    - [ ] [scroll-padding-block](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-block)
+    - [ ] [scroll-padding-block-end](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-block-end)
+    - [ ] [scroll-padding-block-start](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-block-start)
+    - [ ] [scroll-padding-bottom](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-bottom)
+    - [ ] [scroll-padding-inline](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-inline)
+    - [ ] [scroll-padding-inline-end](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-inline-end)
+    - [ ] [scroll-padding-inline-start](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-inline-start)
+    - [ ] [scroll-padding-left](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-left)
+    - [ ] [scroll-padding-right](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-right)
+    - [ ] [scroll-padding-top](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-padding-top)
+    - [ ] [scroll-snap-align](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-align)
+    - [ ] [scroll-snap-coordinate](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-coordinate)Non-standardDeprecated
+    - [ ] [scroll-snap-destination](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-destination)Non-standardDeprecated
+    - [ ] [scroll-snap-points-x](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-points-x)Non-standardDeprecated
+    - [ ] [scroll-snap-points-y](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-points-y)Non-standardDeprecated
+    - [ ] [scroll-snap-stop](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-stop)
+    - [ ] [scroll-snap-type](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type)
+    - [ ] [scroll-snap-type-x](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type-x)Non-standardDeprecated
+    - [ ] [scroll-snap-type-y](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type-y)Non-standardDeprecated
+    - [ ] [scroll-timeline](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-timeline)Experimental
+    - [ ] [scroll-timeline-axis](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-timeline-axis)Experimental
+    - [ ] [scroll-timeline-name](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-timeline-name)Experimental
+        
+- [ ] scrollbar-*
+    - [ ] [scrollbar-color](https://developer.mozilla.org/en-US/docs/Web/CSS/scrollbar-color)
+    - [ ] [scrollbar-gutter](https://developer.mozilla.org/en-US/docs/Web/CSS/scrollbar-gutter)
+    - [ ] [scrollbar-width](https://developer.mozilla.org/en-US/docs/Web/CSS/scrollbar-width)
+        
+- [ ] shape-*
+        
+    - [ ] [](https://developer.mozilla.org/en-US/docs/Web/CSS/shape-image-threshold)
+    - [ ] [](https://developer.mozilla.org/en-US/docs/Web/CSS/shape-margin)
+    - [ ] [](https://developer.mozilla.org/en-US/docs/Web/CSS/shape-outside)
+        
+- [ ] [tab-size](https://developer.mozilla.org/en-US/docs/Web/CSS/tab-size)
+- [ ] [table-layout](https://developer.mozilla.org/en-US/docs/Web/CSS/table-layout)
+- [ ] text-*
+    - [ ] [text-align](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)
+    - [ ] [text-align-last](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align-last)
+    - [ ] [text-combine-upright](https://developer.mozilla.org/en-US/docs/Web/CSS/text-combine-upright)
+    - [ ] [text-decoration](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration)
+    - [ ] [text-decoration-color](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color)
+    - [ ] [text-decoration-line](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-line)
+    - [ ] [text-decoration-skip](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip)Experimental
+    - [ ] [text-decoration-skip-ink](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip-ink)
+    - [ ] [text-decoration-style](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style)
+    - [ ] [text-decoration-thickness](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-thickness)
+    - [ ] [text-emphasis](https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis)
+    - [ ] [text-emphasis-color](https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis-color)
+    - [ ] [text-emphasis-position](https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis-position)
+    - [ ] [text-emphasis-style](https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis-style)
+    - [ ] [text-indent](https://developer.mozilla.org/en-US/docs/Web/CSS/text-indent)
+    - [ ] [text-justify](https://developer.mozilla.org/en-US/docs/Web/CSS/text-justify)
+    - [ ] [text-orientation](https://developer.mozilla.org/en-US/docs/Web/CSS/text-orientation)
+    - [ ] [text-overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow)
+    - [ ] [text-rendering](https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering)
+    - [ ] [text-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
+    - [ ] [text-size-adjust](https://developer.mozilla.org/en-US/docs/Web/CSS/text-size-adjust)Experimental
+    - [ ] [text-transform](https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform)
+    - [ ] [text-underline-offset](https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-offset)
+    - [ ] [text-underline-position](https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-position)
+        
+- [ ] [top](https://developer.mozilla.org/en-US/docs/Web/CSS/top)
+- [ ] [touch-action](https://developer.mozilla.org/en-US/docs/Web/CSS/touch-action)
+- [ ] transform-*
+    - [ ] [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+    - [ ] [transform-box](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-box)
+    - [ ] [transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)
+    - [ ] [transform-style](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-style)
+        
+- [ ] transition-*
+    - [ ] [transition](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
+    - [ ] [transition-delay](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-delay)
+    - [ ] [transition-duration](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-duration)
+    - [ ] [transition-property](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-property)
+    - [ ] [transition-timing-function](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function)
+        
+- [ ] [translate](https://developer.mozilla.org/en-US/docs/Web/CSS/translate)
+- [ ] [unicode-bidi](https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-bidi)
+- [ ] [user-modify](https://developer.mozilla.org/en-US/docs/Web/CSS/user-modify)Non-standardDeprecated
+- [ ] [user-select](https://developer.mozilla.org/en-US/docs/Web/CSS/user-select)
+- [ ] [vertical-align](https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align)
+- [ ] [view-transition-name](https://developer.mozilla.org/en-US/docs/Web/CSS/view-transition-name)Experimental
+- [ ] [visibility](https://developer.mozilla.org/en-US/docs/Web/CSS/visibility)
+- [ ] [white-space](https://developer.mozilla.org/en-US/docs/Web/CSS/white-space)
+- [ ] [widows](https://developer.mozilla.org/en-US/docs/Web/CSS/widows)
+- [ ] [width](https://developer.mozilla.org/en-US/docs/Web/CSS/width)
+- [ ] [will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
+- [ ] [word-break](https://developer.mozilla.org/en-US/docs/Web/CSS/word-break)
+- [ ] [word-spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing)
+- [ ] [writing-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode)
+- [ ] [z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index)
+- [ ] [zoom](https://developer.mozilla.org/en-US/docs/Web/CSS/zoom)Non-standard
+    
+
+
+# Selectors
+- [ ] [Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
+- [ ] [Class selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors)
+- [ ] [ID selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/ID_selectors)
+- [ ] [Type selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Type_selectors)
+- [ ] [Universal selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors)
+    
+# Combinators
+- [ ] [Adjacent sibling combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/Adjacent_sibling_combinator)
+- [ ] [Child combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/Child_combinator)
+- [ ] [Column combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/Column_combinator)Experimental
+- [ ] [Descendant combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_combinator)
+- [ ] [General sibling combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator)
+- [ ] [Selector list](https://developer.mozilla.org/en-US/docs/Web/CSS/Selector_list)
+    
+# Pseudo-classes
+- [ ] [:-moz-broken](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-broken)Non-standard
+- [ ] [:-moz-drag-over](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-drag-over)Non-standard
+- [ ] [:-moz-first-node](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-first-node)Non-standard
+- [ ] [:-moz-focusring](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-focusring)Non-standard
+- [ ] [:-moz-handler-blocked](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-handler-blocked)Non-standard
+- [ ] [:-moz-handler-crashed](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-handler-crashed)Non-standard
+- [ ] [:-moz-handler-disabled](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-handler-disabled)Non-standard
+- [ ] [:-moz-last-node](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-last-node)Non-standard
+- [ ] [:-moz-loading](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-loading)Non-standard
+- [ ] [:-moz-locale-dir(ltr)](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-locale-dir_ltr)Non-standard
+- [ ] [:-moz-locale-dir(rtl)](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-locale-dir_rtl)Non-standard
+- [ ] [:-moz-only-whitespace](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-only-whitespace)Non-standard
+- [ ] [:-moz-submit-invalid](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-submit-invalid)Non-standard
+- [ ] [:-moz-suppressed](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-suppressed)Non-standard
+- [ ] [:-moz-user-disabled](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-user-disabled)Non-standard
+- [ ] [:-moz-window-inactive](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-window-inactive)Non-standard
+- [ ] [:active](https://developer.mozilla.org/en-US/docs/Web/CSS/:active)
+- [ ] [:any-link](https://developer.mozilla.org/en-US/docs/Web/CSS/:any-link)
+- [ ] [:autofill](https://developer.mozilla.org/en-US/docs/Web/CSS/:autofill)
+- [ ] [:blank](https://developer.mozilla.org/en-US/docs/Web/CSS/:blank)Experimental
+- [ ] [:checked](https://developer.mozilla.org/en-US/docs/Web/CSS/:checked)
+- [ ] [:current](https://developer.mozilla.org/en-US/docs/Web/CSS/:current)
+- [ ] [:default](https://developer.mozilla.org/en-US/docs/Web/CSS/:default)
+- [ ] [:defined](https://developer.mozilla.org/en-US/docs/Web/CSS/:defined)
+- [ ] [:dir()](https://developer.mozilla.org/en-US/docs/Web/CSS/:dir)
+- [ ] [:disabled](https://developer.mozilla.org/en-US/docs/Web/CSS/:disabled)
+- [ ] [:empty](https://developer.mozilla.org/en-US/docs/Web/CSS/:empty)
+- [ ] [:enabled](https://developer.mozilla.org/en-US/docs/Web/CSS/:enabled)
+- [ ] [:first](https://developer.mozilla.org/en-US/docs/Web/CSS/:first)
+- [ ] [:first-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:first-child)
+- [ ] [:first-of-type](https://developer.mozilla.org/en-US/docs/Web/CSS/:first-of-type)
+- [ ] [:focus](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus)
+- [ ] [:focus-visible](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-visible)
+- [ ] [:focus-within](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-within)
+- [ ] [:fullscreen](https://developer.mozilla.org/en-US/docs/Web/CSS/:fullscreen)
+- [ ] [:future](https://developer.mozilla.org/en-US/docs/Web/CSS/:future)Experimental
+- [ ] [:has()](https://developer.mozilla.org/en-US/docs/Web/CSS/:has)
+- [ ] [:host](https://developer.mozilla.org/en-US/docs/Web/CSS/:host)
+- [ ] [:host-context()](https://developer.mozilla.org/en-US/docs/Web/CSS/:host-context)
+- [ ] [:host()](https://developer.mozilla.org/en-US/docs/Web/CSS/:host_function)
+- [ ] [:hover](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
+- [ ] [:in-range](https://developer.mozilla.org/en-US/docs/Web/CSS/:in-range)
+- [ ] [:indeterminate](https://developer.mozilla.org/en-US/docs/Web/CSS/:indeterminate)
+- [ ] [:invalid](https://developer.mozilla.org/en-US/docs/Web/CSS/:invalid)
+- [ ] [:is()](https://developer.mozilla.org/en-US/docs/Web/CSS/:is)
+- [ ] [:lang()](https://developer.mozilla.org/en-US/docs/Web/CSS/:lang)
+- [ ] [:last-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:last-child)
+- [ ] [:last-of-type](https://developer.mozilla.org/en-US/docs/Web/CSS/:last-of-type)
+- [ ] [:left](https://developer.mozilla.org/en-US/docs/Web/CSS/:left)
+- [ ] [:link](https://developer.mozilla.org/en-US/docs/Web/CSS/:link)
+- [ ] [:local-link](https://developer.mozilla.org/en-US/docs/Web/CSS/:local-link)
+- [ ] [:modal](https://developer.mozilla.org/en-US/docs/Web/CSS/:modal)
+- [ ] [:not()](https://developer.mozilla.org/en-US/docs/Web/CSS/:not)
+- [ ] [:nth-child()](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)
+- [ ] [:nth-col()](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-col)
+- [ ] [:nth-last-child()](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-last-child)
+- [ ] [:nth-last-col()](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-last-col)
+- [ ] [:nth-last-of-type()](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-last-of-type)
+- [ ] [:nth-of-type()](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-of-type)
+- [ ] [:only-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:only-child)
+- [ ] [:only-of-type](https://developer.mozilla.org/en-US/docs/Web/CSS/:only-of-type)
+- [ ] [:optional](https://developer.mozilla.org/en-US/docs/Web/CSS/:optional)
+- [ ] [:out-of-range](https://developer.mozilla.org/en-US/docs/Web/CSS/:out-of-range)
+- [ ] [:past](https://developer.mozilla.org/en-US/docs/Web/CSS/:past)Experimental
+- [ ] [:paused](https://developer.mozilla.org/en-US/docs/Web/CSS/:paused)
+- [ ] [:picture-in-picture](https://developer.mozilla.org/en-US/docs/Web/CSS/:picture-in-picture)
+- [ ] [:placeholder-shown](https://developer.mozilla.org/en-US/docs/Web/CSS/:placeholder-shown)
+- [ ] [:playing](https://developer.mozilla.org/en-US/docs/Web/CSS/:playing)
+- [ ] [:popover-open](https://developer.mozilla.org/en-US/docs/Web/CSS/:popover-open)Experimental
+- [ ] [:read-only](https://developer.mozilla.org/en-US/docs/Web/CSS/:read-only)
+- [ ] [:read-write](https://developer.mozilla.org/en-US/docs/Web/CSS/:read-write)
+- [ ] [:required](https://developer.mozilla.org/en-US/docs/Web/CSS/:required)
+- [ ] [:right](https://developer.mozilla.org/en-US/docs/Web/CSS/:right)
+- [ ] [:root](https://developer.mozilla.org/en-US/docs/Web/CSS/:root)
+- [ ] [:scope](https://developer.mozilla.org/en-US/docs/Web/CSS/:scope)
+- [ ] [:target](https://developer.mozilla.org/en-US/docs/Web/CSS/:target)
+- [ ] [:target-within](https://developer.mozilla.org/en-US/docs/Web/CSS/:target-within)Experimental
+- [ ] [:user-invalid](https://developer.mozilla.org/en-US/docs/Web/CSS/:user-invalid)
+- [ ] [:user-valid](https://developer.mozilla.org/en-US/docs/Web/CSS/:user-valid)
+- [ ] [:valid](https://developer.mozilla.org/en-US/docs/Web/CSS/:valid)
+- [ ] [:visited](https://developer.mozilla.org/en-US/docs/Web/CSS/:visited)
+- [ ] [:where()](https://developer.mozilla.org/en-US/docs/Web/CSS/:where)
+    
+# Pseudo-elements
+- [ ] [::-moz-color-swatch](https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-color-swatch)Non-standard
+- [ ] [::-moz-focus-inner](https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-focus-inner)Non-standard
+- [ ] [::-moz-list-bullet](https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-list-bullet)Non-standard
+- [ ] [::-moz-list-number](https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-list-number)Non-standard
+- [ ] [::-moz-page](https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-page)Non-standard
+- [ ] [::-moz-page-sequence](https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-page-sequence)Non-standard
+- [ ] [::-moz-progress-bar](https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-progress-bar)Non-standard
+- [ ] [::-moz-range-progress](https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-range-progress)Non-standard
+- [ ] [::-moz-range-thumb](https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-range-thumb)Non-standard
+- [ ] [::-moz-range-track](https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-range-track)Non-standard
+- [ ] [::-moz-scrolled-page-sequence](https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-scrolled-page-sequence)Non-standard
+- [ ] [::-webkit-inner-spin-button](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-inner-spin-button)Non-standard
+- [ ] [::-webkit-meter-bar](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-meter-bar)Non-standard
+- [ ] [::-webkit-meter-even-less-good-value](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-meter-even-less-good-value)Non-standard
+- [ ] [::-webkit-meter-inner-element](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-meter-inner-element)Non-standard
+- [ ] [::-webkit-meter-optimum-value](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-meter-optimum-value)Non-standard
+- [ ] [::-webkit-meter-suboptimum-value](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-meter-suboptimum-value)Non-standard
+- [ ] [::-webkit-outer-spin-button](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-outer-spin-button)Non-standard
+- [ ] [::-webkit-progress-bar](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-progress-bar)Non-standard
+- [ ] [::-webkit-progress-inner-element](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-progress-inner-element)Non-standard
+- [ ] [::-webkit-progress-value](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-progress-value)Non-standard
+- [ ] [::-webkit-scrollbar](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar)Non-standard
+- [ ] [::-webkit-search-cancel-button](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-search-cancel-button)Non-standard
+- [ ] [::-webkit-search-results-button](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-search-results-button)Non-standard
+- [ ] [::-webkit-slider-runnable-track](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-slider-runnable-track)Non-standard
+- [ ] [::-webkit-slider-thumb](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-slider-thumb)Non-standard
+- [ ] [::after](https://developer.mozilla.org/en-US/docs/Web/CSS/::after)
+- [ ] [::backdrop](https://developer.mozilla.org/en-US/docs/Web/CSS/::backdrop)
+- [ ] [::before](https://developer.mozilla.org/en-US/docs/Web/CSS/::before)
+- [ ] [::cue](https://developer.mozilla.org/en-US/docs/Web/CSS/::cue)
+- [ ] [::cue-region](https://developer.mozilla.org/en-US/docs/Web/CSS/::cue-region)
+- [ ] [::file-selector-button](https://developer.mozilla.org/en-US/docs/Web/CSS/::file-selector-button)
+- [ ] [::first-letter](https://developer.mozilla.org/en-US/docs/Web/CSS/::first-letter)
+- [ ] [::first-line](https://developer.mozilla.org/en-US/docs/Web/CSS/::first-line)
+- [ ] [::grammar-error](https://developer.mozilla.org/en-US/docs/Web/CSS/::grammar-error)Experimental
+- [ ] [::highlight()](https://developer.mozilla.org/en-US/docs/Web/CSS/::highlight)Experimental
+- [ ] [::marker](https://developer.mozilla.org/en-US/docs/Web/CSS/::marker)
+- [ ] [::part()](https://developer.mozilla.org/en-US/docs/Web/CSS/::part)
+- [ ] [::placeholder](https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder)
+- [ ] [::selection](https://developer.mozilla.org/en-US/docs/Web/CSS/::selection)
+- [ ] [::slotted()](https://developer.mozilla.org/en-US/docs/Web/CSS/::slotted)
+- [ ] [::spelling-error](https://developer.mozilla.org/en-US/docs/Web/CSS/::spelling-error)Experimental
+- [ ] [::target-text](https://developer.mozilla.org/en-US/docs/Web/CSS/::target-text)Experimental
+- [ ] [::view-transition](https://developer.mozilla.org/en-US/docs/Web/CSS/::view-transition)Experimental
+- [ ] [::view-transition-group](https://developer.mozilla.org/en-US/docs/Web/CSS/::view-transition-group)Experimental
+- [ ] [::view-transition-image-pair](https://developer.mozilla.org/en-US/docs/Web/CSS/::view-transition-image-pair)Experimental
+- [ ] [::view-transition-new](https://developer.mozilla.org/en-US/docs/Web/CSS/::view-transition-new)Experimental
+- [ ] [::view-transition-old](https://developer.mozilla.org/en-US/docs/Web/CSS/::view-transition-old)Experimental
+    
+# At-rules
+- [ ] [@charset](https://developer.mozilla.org/en-US/docs/Web/CSS/@charset)
+- [ ] [@color-profile](https://developer.mozilla.org/en-US/docs/Web/CSS/@color-profile)
+- [ ] [@container](https://developer.mozilla.org/en-US/docs/Web/CSS/@container)
+- [ ] [@counter-style](https://developer.mozilla.org/en-US/docs/Web/CSS/@counter-style)
+- [ ] [@document](https://developer.mozilla.org/en-US/docs/Web/CSS/@document)Non-standardDeprecated
+- [ ] [@font-face](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face)
+- [ ] [@font-feature-values](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-feature-values)
+- [ ] [@font-palette-values](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-palette-values)
+- [ ] [@import](https://developer.mozilla.org/en-US/docs/Web/CSS/@import)
+- [ ] [@keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
+- [ ] [@layer](https://developer.mozilla.org/en-US/docs/Web/CSS/@layer)
+- [ ] [@media](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
+- [ ] [@namespace](https://developer.mozilla.org/en-US/docs/Web/CSS/@namespace)
+- [ ] [@page](https://developer.mozilla.org/en-US/docs/Web/CSS/@page)
+- [ ] [@property](https://developer.mozilla.org/en-US/docs/Web/CSS/@property)
+- [ ] [@supports](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)
+
+# Functions
+- [ ] [-moz-image-rect](https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-image-rect)ExperimentalNon-standard
+- [ ] [abs()](https://developer.mozilla.org/en-US/docs/Web/CSS/abs)Experimental
+- [ ] [acos()](https://developer.mozilla.org/en-US/docs/Web/CSS/acos)
+- [ ] [asin()](https://developer.mozilla.org/en-US/docs/Web/CSS/asin)
+- [ ] [atan()](https://developer.mozilla.org/en-US/docs/Web/CSS/atan)
+- [ ] [atan2()](https://developer.mozilla.org/en-US/docs/Web/CSS/atan2)
+- [ ] [attr()](https://developer.mozilla.org/en-US/docs/Web/CSS/attr)
+- [ ] [calc()](https://developer.mozilla.org/en-US/docs/Web/CSS/calc)
+- [ ] [clamp()](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp)
+- [ ] [cos()](https://developer.mozilla.org/en-US/docs/Web/CSS/cos)
+- [ ] [counter()](https://developer.mozilla.org/en-US/docs/Web/CSS/counter)
+- [ ] [counters()](https://developer.mozilla.org/en-US/docs/Web/CSS/counters)
+- [ ] [cross-fade()](https://developer.mozilla.org/en-US/docs/Web/CSS/cross-fade)
+- [ ] [element()](https://developer.mozilla.org/en-US/docs/Web/CSS/element)Experimental
+- [ ] [env()](https://developer.mozilla.org/en-US/docs/Web/CSS/env)
+- [ ] [exp()](https://developer.mozilla.org/en-US/docs/Web/CSS/exp)
+- [ ] [fit-content()](https://developer.mozilla.org/en-US/docs/Web/CSS/fit-content_function)
+- [ ] [hypot()](https://developer.mozilla.org/en-US/docs/Web/CSS/hypot)
+- [ ] [log()](https://developer.mozilla.org/en-US/docs/Web/CSS/log)
+- [ ] [max()](https://developer.mozilla.org/en-US/docs/Web/CSS/max)
+- [ ] [min()](https://developer.mozilla.org/en-US/docs/Web/CSS/min)
+- [ ] [minmax()](https://developer.mozilla.org/en-US/docs/Web/CSS/minmax)
+- [ ] [mod()](https://developer.mozilla.org/en-US/docs/Web/CSS/mod)Experimental
+- [ ] [path()](https://developer.mozilla.org/en-US/docs/Web/CSS/path)
+- [ ] [pow()](https://developer.mozilla.org/en-US/docs/Web/CSS/pow)
+- [ ] [ray()](https://developer.mozilla.org/en-US/docs/Web/CSS/ray)Experimental
+- [ ] [rem()](https://developer.mozilla.org/en-US/docs/Web/CSS/rem)Experimental
+- [ ] [repeat()](https://developer.mozilla.org/en-US/docs/Web/CSS/repeat)
+- [ ] [round()](https://developer.mozilla.org/en-US/docs/Web/CSS/round)Experimental
+- [ ] [sign()](https://developer.mozilla.org/en-US/docs/Web/CSS/sign)Experimental
+- [ ] [sin()](https://developer.mozilla.org/en-US/docs/Web/CSS/sin)
+- [ ] [sqrt()](https://developer.mozilla.org/en-US/docs/Web/CSS/sqrt)
+- [ ] [symbols()](https://developer.mozilla.org/en-US/docs/Web/CSS/symbols)
+- [ ] [tan()](https://developer.mozilla.org/en-US/docs/Web/CSS/tan)
+- [ ] [url()](https://developer.mozilla.org/en-US/docs/Web/CSS/url)
+- [ ] [var()](https://developer.mozilla.org/en-US/docs/Web/CSS/var)
+    
+# Types
+- [ ] [`<alpha-value>`](https://developer.mozilla.org/en-US/docs/Web/CSS/alpha-value)
+- [ ] [`<angle>`](https://developer.mozilla.org/en-US/docs/Web/CSS/angle)
+- [ ] [`<angle-percentage>`](https://developer.mozilla.org/en-US/docs/Web/CSS/angle-percentage)
+- [ ] [`<basic-shape>`](https://developer.mozilla.org/en-US/docs/Web/CSS/basic-shape)
+- [ ] [`<blend-mode>`](https://developer.mozilla.org/en-US/docs/Web/CSS/blend-mode)
+- [ ] [`<calc-constant>`](https://developer.mozilla.org/en-US/docs/Web/CSS/calc-constant)
+- [ ] [`<calc-sum>`](https://developer.mozilla.org/en-US/docs/Web/CSS/calc-sum)
+- [ ] [`<color-interpolation-method>`](https://developer.mozilla.org/en-US/docs/Web/CSS/color-interpolation-method)
+- [ ] [`<color>`](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+- [ ] [`<custom-ident>`](https://developer.mozilla.org/en-US/docs/Web/CSS/custom-ident)
+- [ ] [`<dashed-ident>`](https://developer.mozilla.org/en-US/docs/Web/CSS/dashed-ident)
+- [ ] [`<dimension>`](https://developer.mozilla.org/en-US/docs/Web/CSS/dimension)
+- [ ] [`<display-box>`](https://developer.mozilla.org/en-US/docs/Web/CSS/display-box)
+- [ ] [`<display-inside>`](https://developer.mozilla.org/en-US/docs/Web/CSS/display-inside)
+- [ ] [`<display-internal>`](https://developer.mozilla.org/en-US/docs/Web/CSS/display-internal)
+- [ ] [`<display-legacy>`](https://developer.mozilla.org/en-US/docs/Web/CSS/display-legacy)
+- [ ] [`<display-listitem>`](https://developer.mozilla.org/en-US/docs/Web/CSS/display-listitem)
+- [ ] [`<display-outside>`](https://developer.mozilla.org/en-US/docs/Web/CSS/display-outside)
+- [ ] [`<easing-function>`](https://developer.mozilla.org/en-US/docs/Web/CSS/easing-function)
+- [ ] [`<filter-function>`](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function)
+- [ ] [`<flex>`](https://developer.mozilla.org/en-US/docs/Web/CSS/flex_value)
+- [ ] [`<frequency>`](https://developer.mozilla.org/en-US/docs/Web/CSS/frequency)
+- [ ] [`<frequency-percentage>`](https://developer.mozilla.org/en-US/docs/Web/CSS/frequency-percentage)
+- [ ] [`<gradient>`](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient)
+- [ ] [`<hex-color>`](https://developer.mozilla.org/en-US/docs/Web/CSS/hex-color)
+- [ ] [`<hue>`](https://developer.mozilla.org/en-US/docs/Web/CSS/hue)
+- [ ] [`<hue-interpolation-method>`](https://developer.mozilla.org/en-US/docs/Web/CSS/hue-interpolation-method)
+- [ ] [`<ident>`](https://developer.mozilla.org/en-US/docs/Web/CSS/ident)
+- [ ] [`<image>`](https://developer.mozilla.org/en-US/docs/Web/CSS/image)
+- [ ] [`<integer>`](https://developer.mozilla.org/en-US/docs/Web/CSS/integer)
+- [ ] [`<length>`](https://developer.mozilla.org/en-US/docs/Web/CSS/length)
+- [ ] [`<length-percentage>`](https://developer.mozilla.org/en-US/docs/Web/CSS/length-percentage)
+- [ ] [`<line-style>`](https://developer.mozilla.org/en-US/docs/Web/CSS/line-style)
+- [ ] [`<named-color>`](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)
+- [ ] [`<number>`](https://developer.mozilla.org/en-US/docs/Web/CSS/number)
+- [ ] [`<overflow>`](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow_value)
+- [ ] [`<percentage>`](https://developer.mozilla.org/en-US/docs/Web/CSS/percentage)
+- [ ] [`<position>`](https://developer.mozilla.org/en-US/docs/Web/CSS/position_value)
+- [ ] [`<ratio>`](https://developer.mozilla.org/en-US/docs/Web/CSS/ratio)
+- [ ] [`<resolution>`](https://developer.mozilla.org/en-US/docs/Web/CSS/resolution)
+- [ ] [`<shape>`](https://developer.mozilla.org/en-US/docs/Web/CSS/shape)Deprecated
+- [ ] [`<string>`](https://developer.mozilla.org/en-US/docs/Web/CSS/string)
+- [ ] [`<system-color>`](https://developer.mozilla.org/en-US/docs/Web/CSS/system-color)
+- [ ] [`<time>`](https://developer.mozilla.org/en-US/docs/Web/CSS/time)
+- [ ] [`<time-percentage>`](https://developer.mozilla.org/en-US/docs/Web/CSS/time-percentage)
+- [ ] [`<transform-function>`](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function)

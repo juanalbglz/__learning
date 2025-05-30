@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <title>Demo | lyrica.js</title>
+</head>
+
+<body>
+
+    <main>
+        <audio src="assets/ShapeOfYou.mp3" controls>Your browser is soooooooooo outdated!</audio>
+        <div id="lyrica-wrap"></div>
+    </main>
+
+    <script src="js/lyrica.js"></script>
+    <script>
+
+        function ajax(url, returnType) {
+            return new Promise(function(resolve, reject) {
+                let request = new XMLHttpRequest();
+                request.responseType = returnType;
+                request.onreadystatechange = function() {
+                    if (request.readyState === XMLHttpRequest.DONE) {
+                        if (request.status === 200) {
+                            resolve(request.response);
+                        }
+                        else {
+                            reject(Error(request.status));
+                            console.error('AJAX request to', url, 'failed. Got status', request.status);
+                        }
+                    }
+                };
+                request.onerror = function() {
+                    reject(Error("Network Error"));
+                    console.warn('AJAX request to', url, 'failed due to network error.');
+                };
+                request.open('GET', url);
+                request.send();
+            });
+        }
+
+        const lyrica = new Lyrica({
+            el: "#lyrica-wrap",
+            offsetTop: 50
+        });
+
+        const audio = document.querySelector('audio');
+        audio.addEventListener('timeupdate', function () { lyrica.update(audio.currentTime); });
+
+        Promise.all([
+            ajax('./assets/ShapeOfYou.lrc.txt', 'text')
+        ]).then(function (res) {
+            lyrica.load(res[0]);
+        });
+
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,41 @@
+/*Tag selector*/
+h2{ /*select all h2 elements*/
+  color: red;
+}
+
+/*Class selector*/
+.red-text{ /*select class red-heading*/
+  color: red;
+}
+
+
+/*ID selector*/
+#red{ /*select the id red-h2*/
+  color: red;
+}
+
+
+/*Attribute selector*/
+p[dragable="true"]{ /*select the paragraph with attribute dragable*/
+  color: fuchsia;
+}
+
+/*Universal slector*/
+*{ /*select all */
+  color: fuchsia;
+}
+
+
+
+/*Option 2*/
+h2{
+  color: red;
+}
+
+h2+h2{
+  color: green;
+}
+
+h2+h2+h2{
+  color: blue;
+}

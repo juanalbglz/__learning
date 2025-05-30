@@ -1,0 +1,94 @@
+[00:00.00] TWELVE DAYS OF CHRISTMAS
+[00:07.88] 3
+[00:08.88] 2
+[00:09.88] 1
+[00:10.88] On the first day of Christmas my true love sent to me:
+[00:15.61] A partridge in a pear tree.
+[00:19.32] On the second day of Christmas my true love sent to me:
+[00:24.11] Two turtle doves,
+[00:25.75] And a partridge in a pear tree.
+[00:30.06] On the third day of Christmas my true love sent to me:
+[00:34.62] Three French hens,
+[00:36.77] Two turtle doves,
+[00:38.27] And a partridge in a pear tree.
+[00:41.90] On the forth day of Christmas my true love sent to me:
+[00:46.99] Four calling birds,
+[00:49.13] Three French hens,
+[00:50.87] Two turtle doves,
+[00:52.69] And a partridge in a pear tree.
+[00:56.37] On the fifth day of Christmas my true love sent to me:
+[01:01.54] Five golden rings
+[01:05.67] Four calling birds,
+[01:07.49] Three French hens,
+[01:09.27] Two turtle doves,
+[01:10.85] And a partridge in a pear tree.
+[01:14.91] On the sixth day of Christmas my true love sent to me:
+[01:19.93] Six geese a-laying,
+[01:22.02] Five golden rings
+[01:26.34] Four calling birds,
+[01:28.15] Three French hens,
+[01:29.76] Two turtle doves,
+[01:31.35] And a partridge in a pear tree.
+[01:35.63] On the seventh day of Christmas my true love sent to me:
+[01:40.35] Seven swans a-swimming,
+[01:42.28] Six geese a-laying,
+[01:44.03] Five golden rings
+[01:48.06] Four calling birds,
+[01:49.99] Three French hens,
+[01:51.44] Two turtle doves,
+[01:53.17] And a partridge in a pear tree.
+[01:57.43] On the eighth day of Christmas my true love sent to me:
+[02:02.16] Eight maids a-milking,
+[02:04.16] Seven swans a-swimming,
+[02:05.64] Six geese a-laying,
+[02:07.51] Five golden rings
+[02:11.28] Four calling birds,
+[02:13.19] Three French hens,
+[02:14.67] Two turtle doves,
+[02:16.23] And a partridge in a pear tree. 
+[02:20.63] On the ninth day of Christmas my true love sent to me:
+[02:25.52] Nine ladies dancing,
+[02:27.36] Eight maids a-milking,
+[02:29.19] Seven swans a-swimming,
+[02:30.72] Six geese a-laying,
+[02:32.47] Five golden rings
+[02:36.19] Four calling birds,
+[02:38.19] Three French hens,
+[02:39.66] Two turtle doves,
+[02:41.29] And a partridge in a pear tree.
+[02:45.44] On the tenth day of Christmas my true love sent to me: 
+[02:50.31] Ten lords a-leaping,
+[02:52.27] Nine ladies dancing,
+[02:54.07] Eight maids a-milking, 
+[02:55.72] Seven swans a-swimming,
+[02:57.16] Six geese a-laying, 
+[02:58.81] Five golden rings
+[03:02.78] Four calling birds,
+[03:04.52] Three French hens,
+[03:06.18] Two turtle doves,
+[03:07.83] And a partridge in a pear tree.
+[03:12.20] On the eleventh day of Christmas my true love sent to me:
+[03:17.03] Eleven pipers piping,
+[03:18.89] Ten lords a-leaping,
+[03:20.61] Nine ladies dancing,
+[03:22.04] Eight maids a-milking,
+[03:23.57] Seven swans a-swimming,
+[03:25.21] Six geese a-laying,
+[03:27.00] Five golden rings
+[03:30.93] Four calling birds,
+[03:32.59] Three French hens,
+[03:34.28] Two turtle doves,
+[03:35.83] And a partridge in a pear tree.
+[03:40.28] On the Twelfth day of Christmas my true love sent to me:
+[03:45.11] Twelve drummers drumming,
+[03:47.11] Eleven pipers piping,
+[03:48.90] Ten lords a-leaping,
+[03:50.32] Nine ladies dancing,
+[03:51.73] Eight maids a-milking,
+[03:53.48] Seven swans a-swimming,
+[03:55.04] Six geese a-laying,
+[03:56.68] Five golden rings
+[04:00.87]Four calling birds,
+[04:02.63] Three French hens,
+[04:04.23] Two turtle doves,
+[04:05.77] And a partridge in a pear tree.
