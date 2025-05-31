@@ -1,0 +1,242 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Orbitron:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  font-family: "Playfair Display", serif;
+  margin: 0;
+  padding: 20px;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(
+    135deg,
+    #000000 0%,
+    #1a1a1a 25%,
+    #262626 50%,
+    #1a1a1a 75%,
+    #000000 100%
+  );
+  position: relative;
+  overflow: hidden;
+}
+
+body::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: radial-gradient(
+      circle at 20% 20%,
+      rgba(255, 215, 0, 0.08) 0%,
+      transparent 60%
+    ),
+    radial-gradient(
+      circle at 80% 80%,
+      rgba(255, 215, 0, 0.08) 0%,
+      transparent 60%
+    ),
+    radial-gradient(
+      circle at 50% 50%,
+      rgba(255, 215, 0, 0.05) 0%,
+      transparent 70%
+    );
+  pointer-events: none;
+  animation: gradientShift 15s infinite alternate;
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 0%;
+  }
+
+  100% {
+    background-position: 100% 100%;
+  }
+}
+
+.container {
+  background: linear-gradient(
+    145deg,
+    rgba(20, 20, 20, 0.95),
+    rgba(10, 10, 10, 0.98),
+    rgba(20, 20, 20, 0.95)
+  );
+  padding: 3.5rem;
+  border-radius: 20px;
+  box-shadow: 0 0 40px rgba(255, 215, 0, 0.1), 0 0 100px rgba(0, 0, 0, 0.5),
+    inset 0 0 20px rgba(255, 215, 0, 0.05);
+  max-width: 600px;
+  width: 90%;
+  position: relative;
+  border: 1px solid rgba(255, 215, 0, 0.15);
+  backdrop-filter: blur(10px);
+}
+
+h1 {
+  font-family: "Orbitron", sans-serif;
+  text-align: center;
+  color: #ffd700;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  font-size: 2.4em;
+  font-weight: 900;
+  text-shadow: 0 0 10px rgba(255, 215, 0, 0.3), 0 0 20px rgba(255, 215, 0, 0.2),
+    0 0 30px rgba(255, 215, 0, 0.1);
+  background: linear-gradient(45deg, #ffd700, #fff5a0, #ffd700);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: titleGlow 3s infinite alternate;
+}
+
+@keyframes titleGlow {
+  from {
+    filter: drop-shadow(0 0 10px rgba(255, 215, 0, 0.3));
+  }
+
+  to {
+    filter: drop-shadow(0 0 20px rgba(255, 215, 0, 0.5));
+  }
+}
+
+h1::after {
+  content: "";
+  display: block;
+  width: 150px;
+  height: 3px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 215, 0, 0.3),
+    #ffd700,
+    rgba(255, 215, 0, 0.3),
+    transparent
+  );
+  margin: 15px auto 0;
+}
+
+.question {
+  margin-bottom: 25px;
+  position: relative;
+}
+
+label {
+  display: block;
+  margin-bottom: 12px;
+  color: #ffd700;
+  font-weight: bold;
+  font-family: "Orbitron", sans-serif;
+  font-size: 1.1em;
+  text-shadow: 0 0 5px rgba(255, 215, 0, 0.3);
+  letter-spacing: 1px;
+}
+
+input {
+  width: 100%;
+  padding: 15px;
+  border: 2px solid rgba(255, 215, 0, 0.3);
+  background: linear-gradient(145deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2));
+  color: white;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  transition: all 0.3s ease;
+  font-size: 1.1em;
+  font-family: "Playfair Display", serif;
+  letter-spacing: 1px;
+}
+
+input:focus {
+  outline: none;
+  border-color: #ffd700;
+  box-shadow: 0 0 15px rgba(255, 215, 0, 0.2),
+    inset 0 0 10px rgba(255, 215, 0, 0.1);
+  background: linear-gradient(145deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3));
+}
+
+.example {
+  font-size: 0.9em;
+  color: #bbb;
+  font-style: italic;
+  margin-left: 5px;
+  font-family: "Playfair Display", serif;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 20px;
+  background: linear-gradient(45deg, #ffd700, #ffe44d, #ffd700);
+  color: #000;
+  border: none;
+  border-radius: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  text-transform: uppercase;
+  margin-top: 30px;
+  transition: all 0.3s ease;
+  font-family: "Orbitron", sans-serif;
+  font-size: 1.2em;
+  letter-spacing: 3px;
+  position: relative;
+  overflow: hidden;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5);
+}
+
+button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(255, 215, 0, 0.3), 0 0 30px rgba(255, 215, 0, 0.2);
+  background: linear-gradient(45deg, #ffe44d, #ffd700, #ffe44d);
+}
+
+button:active {
+  transform: translateY(0);
+}
+
+#result {
+  margin-top: 35px;
+  text-align: center;
+  font-size: 2em;
+  background: linear-gradient(45deg, #ffd700, #fff5a0, #ffd700);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  min-height: 60px;
+  font-family: "Orbitron", sans-serif;
+  text-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
+  padding: 20px;
+  border-top: 1px solid rgba(255, 215, 0, 0.1);
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.bat-signal {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 80px;
+  height: 80px;
+  opacity: 0.2;
+  animation: glow 4s infinite alternate;
+  filter: drop-shadow(0 0 10px rgba(255, 215, 0, 0.5));
+}
+
+@keyframes glow {
+  from {
+    opacity: 0.2;
+    filter: drop-shadow(0 0 5px rgba(255, 215, 0, 0.5));
+  }
+
+  to {
+    opacity: 0.3;
+    filter: drop-shadow(0 0 15px rgba(255, 215, 0, 0.8));
+  }
+}

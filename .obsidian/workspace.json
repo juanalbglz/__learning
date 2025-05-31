@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "355f96b37d4d38e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f67c5b86c18d47b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7dacdba44cb008c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn-Javascript-in-1-Month/Day-04-Arithmetic-Operators/readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5321f4037fc2c146",
+    "type": "split",
+    "children": [
+      {
+        "id": "782019b728c8abaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02676e2c8b147d98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "d2e7428534a1b4e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "0312febd64759e0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7adb3a4ad9f8cc0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fd3a54a0364338f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "065d5295ed4fa824",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learn-Javascript-in-1-Month/Day-04-Arithmetic-Operators/readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de readme"
+            }
+          },
+          {
+            "id": "f187d83e6723f6ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learn-Javascript-in-1-Month/Day-04-Arithmetic-Operators/readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de readme"
+            }
+          },
+          {
+            "id": "3a6e731520327f6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "def7de776a43b5f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learn-Javascript-in-1-Month/Day-04-Arithmetic-Operators/readme.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e7dacdba44cb008c",
+  "lastOpenFiles": [
+    "Learn-Javascript-in-1-Month/Day-03-Data-Types/readme.md",
+    "Learn-Javascript-in-1-Month/Day-04-Arithmetic-Operators/Day-04-exercise-02.js",
+    "Learn-Javascript-in-1-Month/Day-04-Arithmetic-Operators/Day-04-exercise-01.js",
+    "Learn-Javascript-in-1-Month/Day-04-Arithmetic-Operators/readme.md"
+  ]
+}
